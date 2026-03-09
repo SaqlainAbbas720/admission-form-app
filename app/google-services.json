@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70356449116",
+    "project_id": "bzu-app-642c7",
+    "storage_bucket": "bzu-app-642c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70356449116:android:beaad52d39d751aebc3399",
+        "android_client_info": {
+          "package_name": "BZUapp.a0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKfNPS1kjB7JjvajarazodYzYs0WAQvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
